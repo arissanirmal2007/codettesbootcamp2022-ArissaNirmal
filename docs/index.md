@@ -1,21 +1,13 @@
-# Welcome to MkDocs
+![](https://lh5.googleusercontent.com/9yV7CEf4GuIhP5ssZ-BsKpHfzdzrigwDPPVQSPThWhz1-uHSjIo4jZOdUL1M8Gk31L7HDjlQoww2wh-YWjxOLPNDHmb1DQsWxsxTn1XRM7Ub-DPYwpLsasaJCKX5e0u-MvSV0G3aJAgNfTKrjDJAoks)
 
-This is a test site hosted on [GitLab Pages](https://pages.gitlab.io). You can
-[browse its source code](https://gitlab.com/pages/mkdocs), fork it and start
-using it on your projects.
+About me: 
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+ My name is Jia Nirmal. I am 14 years old and I go to the secondary school (MULO) in 
 
-## Commands
+ the second grade.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+ I come from a family of 5: my parents, my older sister, my younger sister and  
 
-## Project layout
+ me. I love to innovate! I got my interest in innovating from my uncle and my aunt.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+ In my free time I work in  my garden, fishing, riding a bike or making puzzles.
